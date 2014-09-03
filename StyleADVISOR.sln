@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StyleADVISOR.SelectionManager", "StyleADVISOR.SelectionManager\StyleADVISOR.SelectionManager.csproj", "{2745AAF3-B279-4DB6-81EB-474197E0A895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StyleADVISOR.SelectionManager.Test", "StyleADVISOR.SelectionManager.Test\StyleADVISOR.SelectionManager.Test.csproj", "{7544D1BD-9921-4B3A-9A42-A20126052AC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2745AAF3-B279-4DB6-81EB-474197E0A895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2745AAF3-B279-4DB6-81EB-474197E0A895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2745AAF3-B279-4DB6-81EB-474197E0A895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2745AAF3-B279-4DB6-81EB-474197E0A895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7544D1BD-9921-4B3A-9A42-A20126052AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7544D1BD-9921-4B3A-9A42-A20126052AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7544D1BD-9921-4B3A-9A42-A20126052AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7544D1BD-9921-4B3A-9A42-A20126052AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

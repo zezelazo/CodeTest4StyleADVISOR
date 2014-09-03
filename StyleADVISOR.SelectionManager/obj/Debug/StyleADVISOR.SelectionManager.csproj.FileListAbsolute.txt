@@ -1,0 +1,5 @@
+D:\Code\Personal\StyleADVISOR\StyleADVISOR.SelectionManager\bin\Debug\StyleADVISOR.SelectionManager.dll
+D:\Code\Personal\StyleADVISOR\StyleADVISOR.SelectionManager\bin\Debug\StyleADVISOR.SelectionManager.pdb
+D:\Code\Personal\StyleADVISOR\StyleADVISOR.SelectionManager\obj\Debug\StyleADVISOR.SelectionManager.csprojResolveAssemblyReference.cache
+D:\Code\Personal\StyleADVISOR\StyleADVISOR.SelectionManager\obj\Debug\StyleADVISOR.SelectionManager.dll
+D:\Code\Personal\StyleADVISOR\StyleADVISOR.SelectionManager\obj\Debug\StyleADVISOR.SelectionManager.pdb

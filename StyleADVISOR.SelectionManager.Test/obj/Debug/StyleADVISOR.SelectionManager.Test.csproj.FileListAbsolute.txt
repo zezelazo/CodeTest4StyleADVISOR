@@ -1,0 +1,9 @@
+D:\Code\Personal\StyleADVISOR\StyleADVISOR.SelectionManager.Test\bin\Debug\StyleADVISOR.SelectionManager.Test.dll
+D:\Code\Personal\StyleADVISOR\StyleADVISOR.SelectionManager.Test\bin\Debug\StyleADVISOR.SelectionManager.Test.pdb
+D:\Code\Personal\StyleADVISOR\StyleADVISOR.SelectionManager.Test\bin\Debug\nunit.framework.dll
+D:\Code\Personal\StyleADVISOR\StyleADVISOR.SelectionManager.Test\bin\Debug\nunit.framework.xml
+D:\Code\Personal\StyleADVISOR\StyleADVISOR.SelectionManager.Test\obj\Debug\StyleADVISOR.SelectionManager.Test.csprojResolveAssemblyReference.cache
+D:\Code\Personal\StyleADVISOR\StyleADVISOR.SelectionManager.Test\obj\Debug\StyleADVISOR.SelectionManager.Test.dll
+D:\Code\Personal\StyleADVISOR\StyleADVISOR.SelectionManager.Test\obj\Debug\StyleADVISOR.SelectionManager.Test.pdb
+D:\Code\Personal\StyleADVISOR\StyleADVISOR.SelectionManager.Test\bin\Debug\StyleADVISOR.SelectionManager.dll
+D:\Code\Personal\StyleADVISOR\StyleADVISOR.SelectionManager.Test\bin\Debug\StyleADVISOR.SelectionManager.pdb
